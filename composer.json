@@ -1,5 +1,5 @@
 {
-  "name": "zitec/emagmarketplace",
+  "name": "smartthingsro/emagmarketplace",
   "description": "",
   "require": {
     "php": "^7.0|^7.1",
