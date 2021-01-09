@@ -3,13 +3,13 @@
   "description": "",
   "require": {
     "php": "^7.3",
-    "magento/framework": "^*",
+    "magento/framework": "*",
     "magento/module-catalog": "*",
     "magento/module-sales": "*",
     "magento/module-quote": "*",
     "magento/module-shipping": "*",
     "magento/module-store": "*",
-    "magento/module-checkout": "^*",
+    "magento/module-checkout": "*",
     "magento/module-payment": "*"
   },
   "suggest": {
